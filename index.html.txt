@@ -6,8 +6,7 @@
 <body>
 
 <h1>Hello world!</h1>
-<p>This is the first file in my new Git Repo bhobhboigbbhdbh oibh oifh lkjoit o xoigh oi oijpo ehoigh toiois bhtoib ifhboi bjdifhoib roi fhoih oibh oih oghkjdfh oejghobhoh.</p>
+<p>this is my first learning with git and github</p>
 
 </body>
 </html>
-this is called anything i  want to telll anything i want to do as long as you want git 
